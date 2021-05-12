@@ -1,19 +1,28 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
+# پرسش و پاسخ ❓
 
-# Quizzler Challenge - Starting Files
+## هدف ما
 
-- Clone this repository to your local system.
-
-- Read the docs for the package we're using:
-
-[rFluttter Alert](https://pub.dartlang.org/packages/rflutter_alert)
-
-- Follow the step by step challenges.
+ساخت نرم افزاری که استیت فول و استیت لس ویجت را نمایش دهد و کاربرد هر کدام به همراه کلاس ها و اشیا به ما نمایش دهد
 
 
 
+## آنچه ساختیم
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+در این نرم افزار اطلاعات عمومی را به چالش میکشیم و میتوانیم نرم افزار های مشابه برای پرسش و پاسخ در موضوعات متنوع را با آن بسازیم
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
+## آنچه انجام دادیم
+
+-ماژولار کردن نرم افزار با کلاس و اشیا
+- استفاده از متد های سازنده کلاس
+- استخراج ویجت ها و استفاده مجدد از آنها
+- استفاده از لیست ها در دارت
+- تفاوت ثابت ها و فاینال ها و متغیرها را نمایش دادیم
+
+
+### تصاویر نرم افزار
+<img alt="app picture" src="https://github.com/m8811163008/quizzler/blob/master/images/0.jpg?raw=true" width="300px">
+<img alt="app picture" src="https://github.com/m8811163008/quizzler/blob/master/images/1.jpg?raw=true" width="300px">
+<img alt="app picture" src="https://github.com/m8811163008/quizzler/blob/master/images/2.jpg?raw=true" width="300px">
+<img alt="app picture" src="https://github.com/m8811163008/quizzler/blob/master/images/3.jpg?raw=true" width="300px">
